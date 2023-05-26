@@ -1,5 +1,6 @@
 # The URL the site will be built for
 base_url = "https://jingwiw.github.io/blog/"
+BASE_URL = "https://jingwiw.github.io/blog/"
 
 title = "Jnwiki"
 theme = "no-style-please"
