@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://jingwiw.github.io/blog/</loc>
+        <loc>https://jingwiw.github.io/</loc>
     </url>
     <url>
-        <loc>https://jingwiw.github.io/blog/about/</loc>
+        <loc>https://jingwiw.github.io/about/</loc>
     </url>
     <url>
-        <loc>https://jingwiw.github.io/blog/categories/</loc>
+        <loc>https://jingwiw.github.io/categories/</loc>
     </url>
     <url>
-        <loc>https://jingwiw.github.io/blog/contexts/</loc>
+        <loc>https://jingwiw.github.io/contexts/</loc>
     </url>
     <url>
-        <loc>https://jingwiw.github.io/blog/tags/</loc>
+        <loc>https://jingwiw.github.io/tags/</loc>
     </url>
 </urlset>
