@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://jingwiw.github.io/"
+base_url = "https://jingwiw.github.io/blog"
 
 title = "Jnwiki"
 theme = "no-style-please"
@@ -25,11 +25,11 @@ highlight_code = true
 author = "Jingwiw"
 # logo = "images/logo.png"
 header_nav = [
-    { name = "~home", url = "blog/" },
-    { name = "~about", url = "blog/about" },
-    { name = "#tags", url = "blog/tags" },
-    { name = "+categories", url = "blog/categories" },
-    { name = "@contexts", url = "blog/contexts" },
+    { name = "~home", url = "$BASE_URL" },
+    { name = "~about", url = "$BASE_URL/about" },
+    { name = "#tags", url = "$BASE_URL/tags" },
+    { name = "+categories", url = "$BASE_URL/categories" },
+    { name = "@contexts", url = "$BASE_URL/contexts" },
 ]
 footer_nav = [
     { name = "< previous", url = "#" },
